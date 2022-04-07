@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\.."
+	},
+	{
+		"path": "..\\..\\..\\..\\Dev Tools"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "FSD"
+  },
+  "extensions": {
+    "recommendations": ["bierner.markdown-emoji"]
+  }
+}
